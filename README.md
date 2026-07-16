@@ -4,7 +4,7 @@
 ### A relational binding interface for spatial reasoning in frozen vision–language models
 
 <p align="center">
-  <img src="DEMO.gif" alt="" width="850"/>
+  <img src="DEMO.gif" alt="" width="750"/>
 </p>
 
 Haziq Mohammad Khalid · Hamad Siddiqi - Computer Vision (COE486)
